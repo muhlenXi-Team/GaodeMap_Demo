@@ -1,0 +1,7 @@
+platform:ios,'7.0'
+target 'gaodeMapDemo' do
+pod 'AMap2DMap', '~> 3.3.0'
+pod 'AMapLocation', '~> 1.2.0' #定位SDK
+pod 'AMapSearch'               #搜索服务SDK
+end
+
